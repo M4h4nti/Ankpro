@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableHome", "TableHome\TableHome.csproj", "{1C9ED361-4E62-4BB3-B505-272CBD4BBE7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9ED361-4E62-4BB3-B505-272CBD4BBE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9ED361-4E62-4BB3-B505-272CBD4BBE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9ED361-4E62-4BB3-B505-272CBD4BBE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9ED361-4E62-4BB3-B505-272CBD4BBE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BDD019F-24D2-4112-9ACB-5C20F2F83A6A}
+	EndGlobalSection
+EndGlobal
